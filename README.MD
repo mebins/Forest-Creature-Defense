@@ -7,12 +7,14 @@ March:
 .Fully Functional Turret/Enemy Base (that can be further iterated)
 .First Round Concept Character/Background Art
 .PlaceHolder Assets/Art
+
 April:
 .First Core Gameplay Mechanic Implemented
 .First Round of Art/Assets Fully Initialized
 .Playable Alpha/Build of the game 
 .Level 1. Fire Turret/Enemy Fully Realized and Implemented
 .Start Production on Level 1. Water Turret and Level 2. Enemy
+
 May: 
 .Level 1./2. Water Turret/Enemy Concept Art done
 .Prioritize Level 2. Enemy Production
